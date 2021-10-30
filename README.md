@@ -17,11 +17,11 @@
 
 * Termux
 ```
-> pkg install git
-> git clone https://github.com/caliph91/bot-whatsapp
-> cd bot-whatsapp
-> bash install.sh
-> node index
+pkg install git
+git clone https://github.com/caliph91/bot-whatsapp
+cd bot-whatsapp
+bash install.sh
+ node index
 ```
 
 ## Group
