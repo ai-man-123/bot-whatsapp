@@ -31,3 +31,4 @@ bash install.sh
 * [`adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Nurutomo`](https://github.com/nurutomo)
 * [`MFarelS`](https://github.com/mfarels)
+* Aiman
